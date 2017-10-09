@@ -20,8 +20,8 @@ __pycache__
 *.egg-info
 *~
 *.bak
-.ipynb_checkpoints
-code/.ipynb_checkpoints
+**/.ipynb_checkpoints/*
+code/.ipynb_checkpoints/*
 .tox
 .DS_Store
 \#*#
@@ -37,3 +37,5 @@ config.rst
 
 /.project
 /.pydevproject
+
+code/.ipynb_checkpoints/*-checkpoint.ipynb
