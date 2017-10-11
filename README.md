@@ -9,7 +9,7 @@ Robotics Nano Degree
 
 ![Rover simulator output](https://raw.githubusercontent.com/hortovanyi/RoboND-Rover-Project/master/output/Rover.png)
 
-The goals of this project were to use perception and decision steps to control a rover in a simulator. Perception occurs via using computer vision techniques to determine navigable terrain and then make decisions to take Action on the rover.
+The goal of this project were to use perception and decision steps to control a rover in a simulator. Perception occurs via using computer vision techniques to determine navigable terrain and then make decisions to take Action on the rover.
 
 Its the first project of the Robotics Nano Degree program. I ran my simulator in 1600x1200 resolution. Different resolution may impact on the performance of the model in this project.
 
