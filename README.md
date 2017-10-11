@@ -4,6 +4,7 @@ Robotics Nano Degree
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
 [//]: # (Written by Nick Hortovanyi Oct 11th 2017)
+
 ---
 
 ![Rover simulator output](https://raw.githubusercontent.com/hortovanyi/RoboND-Rover-Project/master/output/Rover.png)
@@ -103,9 +104,9 @@ A mosaic image was created showing the rover camera image, warped image, ground 
 
 Test video follows   
 
-<video width="480" height="270" controls>
-  <source src="https://github.com/hortovanyi/RoboND-Rover-Project/blob/master/output/test_mapping.mp4?raw=true">
-</video>
+[![Test Mapping Video](http://img.youtube.com/vi/ryKRVj7M6sc/0.jpg)](https://www.youtube.com/watch?v=ryKRVj7M6sc)
+
+[Test Mapping Video MP4](https://github.com/hortovanyi/RoboND-Rover-Project/blob/master/output/test_mapping.mp4?raw=true)
 
 ## Autonomous Navigation and Mapping
 #### Fill in the perception_step() (at the bottom of the perception.py script) and decision_step() (in decision.py) functions in the autonomous mapping scripts and an explanation is provided in the writeup of how and why these functions were modified as they were.
