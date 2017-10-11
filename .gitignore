@@ -39,3 +39,5 @@ config.rst
 /.pydevproject
 
 code/.ipynb_checkpoints/*-checkpoint.ipynb
+
+test_dataset/*
